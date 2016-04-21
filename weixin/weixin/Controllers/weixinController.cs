@@ -15,6 +15,7 @@ namespace weixin.Controllers
     {
         //
         // GET: /weixin/
+		//Wechat Develop
 
         public ActionResult Index()
         {
